@@ -1,70 +1,27 @@
-# CodeForces Analyzer
+# Codeforces Analyzer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Codeforces Analyzer is a powerful web application designed to help competitive programmers gain deep insights into their Codeforces activity and performance. By simply entering a Codeforces handle, users can access a rich, interactive dashboard that visualizes their journey and achievements on the platform.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **User Profile Overview**: Instantly view your Codeforces handle, rank, rating, country, city, and organization, all styled with official Codeforces color coding for ranks.
+- **Rating History Visualization**: Track your progress over time with a dynamic line chart that displays your rating changes across contests.
+- **Submissions Heatmap**: Explore your daily submission patterns with a calendar heatmap, making it easy to spot streaks, active periods, and lulls in practice.
+- **Problem Tags Analysis**: Understand your strengths and weaknesses with a pie chart that breaks down your solved problems by their tags (e.g., math, dp, graphs).
+- **Recent Submissions Table**: Quickly review your latest submissions, including verdicts, programming languages, and problem details, with color-coded verdicts for clarity.
+- **Dark/Light Theme Toggle**: Enjoy a modern, responsive UI with the ability to switch between dark and light modes for comfortable viewing at any time of day.
+- **Fast and Reliable**: All data is fetched in real-time from the official Codeforces API, ensuring up-to-date and accurate information.
+- **Intuitive and Responsive Design**: Built with React and Material-UI, the application is optimized for both desktop and mobile devices, providing a seamless experience everywhere.
 
-### `npm start`
+## Use Cases
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Track Your Progress**: Monitor your rating growth, contest participation, and problem-solving activity over time.
+- **Identify Weaknesses**: Use tag analysis to find areas where you can improve and focus your practice.
+- **Showcase Your Profile**: Share your Codeforces stats and visualizations with friends, coaches, or on social media.
+- **Motivate Yourself**: Visual feedback on your activity and achievements can help you stay motivated and consistent in your competitive programming journey.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Live Preview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Add your live preview link here]
