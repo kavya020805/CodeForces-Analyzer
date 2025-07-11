@@ -1,36 +1,70 @@
-# CodeForces-Analyzer
+# Getting Started with Create React App
 
-**CodeForces-Analyzer** is a web application designed to help users visualize and analyze their Codeforces programming contest data. By entering a Codeforces username, users can view insightful statistics and interactive charts about their contest performance, problem-solving trends, and submission history.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Description
+## Available Scripts
 
-This project leverages the Codeforces public API to fetch user data and presents it in a visually appealing and easy-to-understand format. The main goal is to provide competitive programmers with deeper insights into their strengths, weaknesses, and progress over time.
+In the project directory, you can run:
 
-## How It Works
+### `npm start`
 
-1. **User Input:**  
-   Users enter their Codeforces handle into the application.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-2. **Data Fetching:**  
-   The app fetches user profile information, contest ratings, and submission history from the Codeforces API.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-3. **Data Visualization:**  
-   - **Rating Chart:** Displays the user's rating changes over time in a line chart.
-   - **Submissions Heatmap:** Shows a heatmap of submissions by date, highlighting active periods.
-   - **Tags Pie Chart:** Visualizes the distribution of solved problems by problem tags.
-   - **Submissions Table:** Lists recent submissions with details like problem name, verdict, and time.
+### `npm test`
 
-4. **User Profile:**  
-   The app displays key profile information such as current rating, rank, and number of problems solved.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-5. **Theme Toggle:**  
-   Users can switch between light and dark themes for a personalized experience.
+### `npm run build`
 
-## Features
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- Interactive charts and tables for in-depth analysis.
-- Real-time data fetching from Codeforces.
-- Clean and responsive user interface.
-- Support for both light and dark themes.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
